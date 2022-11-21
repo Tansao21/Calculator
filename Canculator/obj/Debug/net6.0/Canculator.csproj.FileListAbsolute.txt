@@ -1,0 +1,15 @@
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\bin\Debug\net6.0\Canculator.exe
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\bin\Debug\net6.0\Canculator.deps.json
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\bin\Debug\net6.0\Canculator.runtimeconfig.json
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\bin\Debug\net6.0\Canculator.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\bin\Debug\net6.0\Canculator.pdb
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.csproj.AssemblyReference.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.AssemblyInfoInputs.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.AssemblyInfo.cs
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.csproj.CoreCompileInputs.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\refint\Canculator.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.pdb
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\Canculator.genruntimeconfig.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\Canculator\obj\Debug\net6.0\ref\Canculator.dll

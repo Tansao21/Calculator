@@ -1,0 +1,30 @@
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.exe
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.deps.json
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.runtimeconfig.json
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.dll
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.pdb
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.csproj.AssemblyReference.cache
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.AssemblyInfoInputs.cache
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.AssemblyInfo.cs
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.csproj.CoreCompileInputs.cache
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.dll
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\refint\ConsoleAppMathCond.dll
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.pdb
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.genruntimeconfig.cache
+C:\Users\Weider\Source\Repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ref\ConsoleAppMathCond.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.exe
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.deps.json
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.runtimeconfig.json
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\bin\Debug\net6.0\ConsoleAppMathCond.pdb
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.csproj.AssemblyReference.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.GeneratedMSBuildEditorConfig.editorconfig
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.AssemblyInfoInputs.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.AssemblyInfo.cs
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.csproj.CoreCompileInputs.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\refint\ConsoleAppMathCond.dll
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.pdb
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ConsoleAppMathCond.genruntimeconfig.cache
+E:\С# Практика онлаин\source\repos\ConsoleAppMathCond\ConsoleAppMathCond\obj\Debug\net6.0\ref\ConsoleAppMathCond.dll

@@ -11,8 +11,13 @@ firstNum = double.Parse(Console.ReadLine());
 
 Console.Write("Введите действие(+ - * /): ");
 action = Console.ReadLine();
+if ("+-*/".Contains(action));
+else
+{
+    Console.WriteLine("Не правильный формат данных!");
+}
 
-Console.Write("Введите второе число: ");
+    Console.Write("Введите второе число: ");
 secondNum = double.Parse(Console.ReadLine());
 
 switch (action)
